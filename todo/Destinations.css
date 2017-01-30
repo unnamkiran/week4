@@ -1,0 +1,14 @@
+.jumbotron {
+  background-color: white;
+  text-align: left;
+  font-size: 30px;
+}
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 40px;
+}
+h2 {
+  font-size: 14px;
+  text-align: center;
+  text-overflow: clip;
+}
